@@ -1,4 +1,6 @@
 # API-Client-Java-No-Framework
+## Get API KEY HERE -----> https://www.omdbapi.com/
+
 ### English
 A simple Java application that demonstrates how to make HTTP requests to the OMDb API to fetch movie details. It uses core Java libraries for HTTP communication and JSON parsing without external frameworks. Includes functionality to filter movies by year and genre.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
